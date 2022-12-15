@@ -1,4 +1,4 @@
 StudentID: 2213110659
 Fullname: Sasithorn Promnopas
-AKA: บอฟอ
-ClassDetail:Repeat Lab Sheet 1-4
+AKA: Buf,Buffy
+ClassDetail:Array in Java
