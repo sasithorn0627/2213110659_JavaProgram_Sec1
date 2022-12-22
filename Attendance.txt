@@ -1,4 +1,4 @@
 StudentID: 2213110659
 Fullname: Sasithorn Promnopas
 AKA: Buf,Buffy
-ClassDetail:Array in Java
+ClassDetail:Class and Object, Array of Object
