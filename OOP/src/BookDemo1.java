@@ -12,7 +12,7 @@ public class BookDemo1 {
 		Author worapat = new Author(name,email);
 		System.out.println(worapat);
 		
-		System.out.print("nput book title:");
+		System.out.print("Input book title:");
 		scan.nextLine();
 		String title = scan.nextLine();
 		System.out.print("Input book page : ");
