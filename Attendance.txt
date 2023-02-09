@@ -1,4 +1,4 @@
 StudentID: 2213110659
 Fullname: Sasithorn Promnopas
 AKA: Buf,Buffy
-ClassDetail: Inheritance and Polymor
+ClassDetail:  Abstract and Interface
